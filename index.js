@@ -6,7 +6,7 @@ const test = document.querySelector(selector);
 // 	// let li = document.querySelector("selector");
 // }
 let nestedTarget = () => {
-	.target(#nested)
+	// .target(#nested)
 }
 
 let increaseRankBy = function(n) {
