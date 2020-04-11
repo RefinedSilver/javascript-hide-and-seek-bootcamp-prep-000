@@ -5,7 +5,7 @@ let nestedTarget = () => {
   return document.getElementById('nested').querySelector('div.target')
 }
 let deepestChild = function() {
-  
+
 }
 let increaseRankBy = function(n) {
 const upRank = document.getElementById('app').querySelectorAll('ul.ranked-list');
