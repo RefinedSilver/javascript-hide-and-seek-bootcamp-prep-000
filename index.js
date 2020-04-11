@@ -1,3 +1,3 @@
 let getFirstSelector = function(selector) {
-	document.querySelector(selector);
+	let li = document.querySelector(selector);
 }
